@@ -1,2 +1,2 @@
 # codealpha_python-projects
-internship projects of code alpha 
+internship project 1 of code alpha 
